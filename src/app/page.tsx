@@ -21,7 +21,6 @@ interface UserData {
   leetcode_id: string
   display_name: string
   collected_at: string
-  section?: string  // Added section property
   data: {
     full_profile: {
       username: string
@@ -205,14 +204,6 @@ function UserCard({ user, viewMode = 'grid' }: { user: UserData; viewMode?: View
               <h3 className="text-lg font-semibold text-white">{user.display_name}</h3>
               <div className="flex items-center space-x-2 text-sm text-gray-400">
                 <span>@{user.leetcode_id}</span>
-                {user.section && (
-                  <>
-                    <span>•</span>
-                    <span className="px-2 py-1 bg-purple-500/20 text-purple-300 rounded-md text-xs font-medium">
-                      Section {user.section}
-                    </span>
-                  </>
-                )}
                 {profile.ranking && (
                   <>
                     <span>•</span>
@@ -274,9 +265,6 @@ function UserCard({ user, viewMode = 'grid' }: { user: UserData; viewMode?: View
               {user.display_name}
             </h3>
             <p className="text-gray-400 text-sm">@{user.leetcode_id}</p>
-            {user.section && (
-              <p className="text-purple-300 text-xs font-medium mb-1">Section {user.section}</p>
-            )}
             {profile.ranking && (
               <p className="text-gray-500 text-xs">Rank #{profile.ranking.toLocaleString()}</p>
             )}
@@ -418,113 +406,13 @@ export default function Dashboard() {
   const [sortBy, setSortBy] = useState<SortBy>('total_solved')
   const [skillFilter, setSkillFilter] = useState<SkillFilter>('all')
   const [showAnalytics, setShowAnalytics] = useState(false)
-  const [selectedSection, setSelectedSection] = useState<string>('all')
-  const [availableSections, setAvailableSections] = useState<string[]>([])
 
   const loadData = async () => {
     setIsLoading(true)
     try {
       console.log('🔄 Starting data load...')
       
-      // Primary: Try loading from multi-section users.json (your section-based data)
-      try {
-        console.log('🔄 Loading from multi-section users.json...')
-        const response = await fetch('/users.json')
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`)
-        }
-        
-        const sectionsData = await response.json()
-        console.log('📊 Raw sections data:', sectionsData)
-        
-        // Process nested sections structure
-        let allUsers: UserData[] = []
-        let detectedSections: string[] = []
-        
-        if (Array.isArray(sectionsData)) {
-          sectionsData.forEach((section, index) => {
-            const sectionLetter = String.fromCharCode(65 + index) // A, B, C, etc.
-            detectedSections.push(sectionLetter)
-            
-            if (Array.isArray(section)) {
-              section.forEach((user: any) => {
-                allUsers.push({
-                  leetcode_id: user.leetcode_id,
-                  display_name: user.display_name,
-                  collected_at: new Date().toISOString(),
-                  section: sectionLetter,
-                  data: {
-                    full_profile: {
-                      username: user.leetcode_id,
-                      real_name: user.display_name,
-                      avatar_url: `https://ui-avatars.com/api/?name=${encodeURIComponent(user.display_name)}&background=random`,
-                      reputation: 0,
-                      easy_solved: Math.floor(Math.random() * 100),
-                      medium_solved: Math.floor(Math.random() * 80),
-                      hard_solved: Math.floor(Math.random() * 30),
-                      total_solved: 0, // Will be calculated
-                      easy_acceptance_rate: 75 + Math.random() * 20,
-                      medium_acceptance_rate: 60 + Math.random() * 25,
-                      hard_acceptance_rate: 45 + Math.random() * 30,
-                      overall_acceptance_rate: 0, // Will be calculated
-                      ranking: Math.floor(Math.random() * 100000) + 10000,
-                      language_stats: {
-                        'Python': Math.floor(Math.random() * 50) + 10,
-                        'Java': Math.floor(Math.random() * 30) + 5,
-                        'C++': Math.floor(Math.random() * 25) + 5
-                      }
-                    },
-                    difficulty_analysis: {
-                      skill_level: ['Beginner', 'Intermediate', 'Advanced', 'Expert'][Math.floor(Math.random() * 4)] as any,
-                      total_solved: 0, // Will be calculated
-                      difficulty_distribution: {
-                        easy: { solved: 0, completion: 0, acceptance_rate: 0 },
-                        medium: { solved: 0, completion: 0, acceptance_rate: 0 },
-                        hard: { solved: 0, completion: 0, acceptance_rate: 0 }
-                      },
-                      overall_acceptance_rate: 0
-                    },
-                    consistency_stats: {
-                      current_streak: Math.floor(Math.random() * 20),
-                      max_streak: Math.floor(Math.random() * 50) + 20,
-                      total_days_active: Math.floor(Math.random() * 200) + 50,
-                      recent_activity: {
-                        last_7_days: Math.floor(Math.random() * 15),
-                        last_30_days: Math.floor(Math.random() * 60) + 10
-                      }
-                    }
-                  }
-                })
-              })
-            }
-          })
-          
-          // Calculate derived values
-          allUsers.forEach(user => {
-            const profile = user.data.full_profile
-            profile.total_solved = profile.easy_solved + profile.medium_solved + profile.hard_solved
-            profile.overall_acceptance_rate = (profile.easy_acceptance_rate + profile.medium_acceptance_rate + profile.hard_acceptance_rate) / 3
-            user.data.difficulty_analysis.total_solved = profile.total_solved
-            user.data.difficulty_analysis.overall_acceptance_rate = profile.overall_acceptance_rate
-            user.data.difficulty_analysis.difficulty_distribution = {
-              easy: { solved: profile.easy_solved, completion: (profile.easy_solved / 800) * 100, acceptance_rate: profile.easy_acceptance_rate },
-              medium: { solved: profile.medium_solved, completion: (profile.medium_solved / 1600) * 100, acceptance_rate: profile.medium_acceptance_rate },
-              hard: { solved: profile.hard_solved, completion: (profile.hard_solved / 700) * 100, acceptance_rate: profile.hard_acceptance_rate }
-            }
-          })
-        }
-        
-        console.log(`✅ Processed ${allUsers.length} users from ${sectionsData.length} sections (${detectedSections.join(', ')})`)
-        setUsers(allUsers)
-        setAvailableSections(detectedSections)
-        setDataSource('local')
-        return
-        
-      } catch (sectionsError) {
-        console.error('❌ Multi-section loading failed, trying synced JSON:', sectionsError)
-      }
-      
-      // Fallback: Local JSON (synced from Supabase)
+      // Primary: Local JSON (synced from Supabase)
       try {
         console.log('🔄 Loading from synced JSON...')
         const response = await fetch('/users_analytics.json')
@@ -534,26 +422,17 @@ export default function Dashboard() {
         
         const jsonData = await response.json()
         console.log('✅ Using synced JSON data:', jsonData.length, 'users')
-        
-        // Extract available sections from synced data
-        const sections = [...new Set(jsonData
-          .map((user: any) => user.section)
-          .filter((section: any) => section)
-          .sort()
-        )]
-        
         setUsers(jsonData)
-        setAvailableSections(sections)
         setDataSource('supabase') // Mark as Supabase data (synced)
         
         console.log(`✅ Loaded ${jsonData.length} users from synced Supabase data`)
         return
         
       } catch (jsonError) {
-        console.error('❌ Synced JSON loading failed, trying direct Supabase:', jsonError)
+        console.error('❌ Synced JSON loading failed:', jsonError)
       }
       
-      // Final fallback: Try direct Supabase (browser only)
+      // Fallback: Try direct Supabase (browser only)
       if (typeof window !== 'undefined') {
         try {
           console.log('🔄 Attempting direct Supabase fallback...')
@@ -562,16 +441,7 @@ export default function Dashboard() {
           if (supabaseUsers && supabaseUsers.length > 0) {
             console.log('✅ Using direct Supabase data:', supabaseUsers.length, 'users')
             const transformedData = transformSupabaseData(supabaseUsers)
-            
-            // Extract available sections from Supabase data
-            const sections = [...new Set(transformedData
-              .map((user: any) => user.section)
-              .filter((section: any) => section)
-              .sort()
-            )]
-            
             setUsers(transformedData)
-            setAvailableSections(sections)
             setDataSource('supabase')
             console.log(`✅ Loaded ${supabaseUsers.length} users from direct Supabase`)
             return
@@ -612,21 +482,14 @@ export default function Dashboard() {
       return user.data.full_profile.total_solved > max.data.full_profile.total_solved ? user : max
     })
     const activeUsers = users.filter(user => user.data?.consistency_stats?.recent_activity?.last_7_days > 0).length
-    
-    // Calculate section statistics
-    const sectionStats = availableSections.map(section => ({
-      section,
-      count: users.filter(user => user.section === section).length
-    }))
 
     return {
       totalUsers,
       averageSolved,
       topPerformer,
-      activeUsers,
-      sectionStats
+      activeUsers
     }
-  }, [users, availableSections])
+  }, [users])
 
   const filteredUsers = useMemo(() => {
     const filtered = users.filter(user => {
@@ -640,10 +503,8 @@ export default function Dashboard() {
                            (profile.school && profile.school.toLowerCase().includes(searchTerm.toLowerCase()))
       
       const matchesSkill = skillFilter === 'all' || analysis.skill_level === skillFilter
-      
-      const matchesSection = selectedSection === 'all' || user.section === selectedSection
 
-      return matchesSearch && matchesSkill && matchesSection
+      return matchesSearch && matchesSkill
     })
 
     filtered.sort((a, b) => {
@@ -667,7 +528,7 @@ export default function Dashboard() {
     })
 
     return filtered
-  }, [users, searchTerm, skillFilter, sortBy, selectedSection])
+  }, [users, searchTerm, skillFilter, sortBy])
 
   if (isLoading) {
     return (
@@ -740,7 +601,6 @@ export default function Dashboard() {
               <StatsCard
                 title="Total Users"
                 value={stats.totalUsers}
-                subtitle={`Across ${availableSections.length} section${availableSections.length !== 1 ? 's' : ''} (${availableSections.join(', ')})`}
                 icon={Users}
                 gradient="from-blue-500 to-blue-600"
               />
@@ -753,7 +613,7 @@ export default function Dashboard() {
               <StatsCard
                 title="Top Performer"
                 value={stats.topPerformer?.data?.full_profile?.total_solved || 0}
-                subtitle={`${stats.topPerformer?.display_name || 'N/A'}${stats.topPerformer?.section ? ` (Section ${stats.topPerformer.section})` : ''}`}
+                subtitle={stats.topPerformer?.display_name || 'N/A'}
                 icon={Star}
                 gradient="from-yellow-500 to-orange-500"
               />
@@ -798,17 +658,6 @@ export default function Dashboard() {
                 <option value="Intermediate">Intermediate</option>
                 <option value="Advanced">Advanced</option>
                 <option value="Expert">Expert</option>
-              </select>
-
-              <select
-                value={selectedSection}
-                onChange={(e) => setSelectedSection(e.target.value)}
-                className="bg-white/5 border border-white/10 rounded-xl px-4 py-2 text-white focus:border-purple-500 focus:ring-1 focus:ring-purple-500"
-              >
-                <option value="all">All Sections</option>
-                {availableSections.map(section => (
-                  <option key={section} value={section}>Section {section}</option>
-                ))}
               </select>
 
               <select
