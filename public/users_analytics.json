@@ -1,0 +1,3664 @@
+[
+  {
+    "leetcode_id": "Abijith_U",
+    "display_name": "Abijith U",
+    "collected_at": "2025-08-02T10:08:37.950484+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Abijith_U",
+        "real_name": "Abijith U",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/Abijith_U/avatar_1750743736.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "CHENNAI INSTITUTE OF TECHNOLOGY",
+        "star_rating": 2.5,
+        "ranking": 159109,
+        "reputation": 1,
+        "easy_solved": 314,
+        "medium_solved": 165,
+        "hard_solved": 12,
+        "total_solved": 491,
+        "easy_acceptance_rate": 54.13793,
+        "medium_acceptance_rate": 42.09184,
+        "hard_acceptance_rate": 22.64151,
+        "overall_acceptance_rate": 47.90244,
+        "language_stats": {
+          "C++": 165,
+          "Java": 58,
+          "MySQL": 9,
+          "Python3": 358
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 35.44018,
+            "acceptance_rate": 54.13793
+          },
+          "medium": {
+            "completion": 8.73478,
+            "acceptance_rate": 42.09184
+          },
+          "hard": {
+            "completion": 1.40023,
+            "acceptance_rate": 22.64151
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Abinav_Kishore",
+    "display_name": "Abinav Kishore",
+    "collected_at": "2025-08-02T10:08:42.677098+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Abinav_Kishore",
+        "real_name": "Abinav_Kishore",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 153448,
+        "reputation": 0,
+        "easy_solved": 304,
+        "medium_solved": 185,
+        "hard_solved": 11,
+        "total_solved": 500,
+        "easy_acceptance_rate": 46.06061,
+        "medium_acceptance_rate": 33.57532,
+        "hard_acceptance_rate": 11.34021,
+        "overall_acceptance_rate": 38.2263,
+        "language_stats": {
+          "C++": 9,
+          "MySQL": 2,
+          "Python3": 482,
+          "JavaScript": 11
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 34.31151,
+            "acceptance_rate": 46.06061
+          },
+          "medium": {
+            "completion": 9.79354,
+            "acceptance_rate": 33.57532
+          },
+          "hard": {
+            "completion": 1.28355,
+            "acceptance_rate": 11.34021
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "aditi_baskaran",
+    "display_name": "Aditi Baskaran",
+    "collected_at": "2025-08-02T10:08:48.212715+00:00",
+    "data": {
+      "full_profile": {
+        "username": "aditi_baskaran",
+        "real_name": "Aditi Baskaran",
+        "about_me": "Computer Science Engineering student in Chennai Institute of Technology",
+        "avatar_url": "https://assets.leetcode.com/users/i0GXTrFMQy/avatar_1723019765.png",
+        "location": "India%Tamil Nadu%Kallakkurichchi",
+        "company": null,
+        "school": "Chennai Institute of Technology",
+        "star_rating": 2.5,
+        "ranking": 361779,
+        "reputation": 0,
+        "easy_solved": 213,
+        "medium_solved": 83,
+        "hard_solved": 11,
+        "total_solved": 307,
+        "easy_acceptance_rate": 86.58537,
+        "medium_acceptance_rate": 67.47967,
+        "hard_acceptance_rate": 78.57143,
+        "overall_acceptance_rate": 80.15666,
+        "language_stats": {
+          "C": 1,
+          "C++": 251,
+          "Bash": 2,
+          "Java": 2,
+          "MySQL": 18,
+          "Python": 2,
+          "Python3": 31
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 24.04063,
+            "acceptance_rate": 86.58537
+          },
+          "medium": {
+            "completion": 4.39386,
+            "acceptance_rate": 67.47967
+          },
+          "hard": {
+            "completion": 1.28355,
+            "acceptance_rate": 78.57143
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Akila_Sriniddhi",
+    "display_name": "Akila Sriniddhi",
+    "collected_at": "2025-08-02T10:08:52.734235+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Akila_Sriniddhi",
+        "real_name": "Akila Sriniddhi",
+        "about_me": "sudoku, coding and many more",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "India%Tamil Nadu%Alandur",
+        "company": null,
+        "school": null,
+        "star_rating": 2.0,
+        "ranking": 700865,
+        "reputation": 0,
+        "easy_solved": 102,
+        "medium_solved": 72,
+        "hard_solved": 12,
+        "total_solved": 186,
+        "easy_acceptance_rate": 57.95455,
+        "medium_acceptance_rate": 44.17178,
+        "hard_acceptance_rate": 18.75,
+        "overall_acceptance_rate": 46.15385,
+        "language_stats": {
+          "C++": 176,
+          "Bash": 4,
+          "MySQL": 3,
+          "Python3": 3
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 11.51242,
+            "acceptance_rate": 57.95455
+          },
+          "medium": {
+            "completion": 3.81154,
+            "acceptance_rate": 44.17178
+          },
+          "hard": {
+            "completion": 1.40023,
+            "acceptance_rate": 18.75
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "amoghvj",
+    "display_name": "Amogh VJ",
+    "collected_at": "2025-08-02T10:08:57.216553+00:00",
+    "data": {
+      "full_profile": {
+        "username": "amoghvj",
+        "real_name": "Amogh Vijay",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/amoghvj/avatar_1726665154.png",
+        "location": "%%",
+        "company": null,
+        "school": "Chennai Institute of Technology",
+        "star_rating": 2.5,
+        "ranking": 246291,
+        "reputation": 0,
+        "easy_solved": 251,
+        "medium_solved": 134,
+        "hard_solved": 5,
+        "total_solved": 390,
+        "easy_acceptance_rate": 36.37681,
+        "medium_acceptance_rate": 24.76895,
+        "hard_acceptance_rate": 6.84932,
+        "overall_acceptance_rate": 29.90798,
+        "language_stats": {
+          "C": 230,
+          "C++": 12,
+          "Java": 4,
+          "Python": 1,
+          "Python3": 141,
+          "JavaScript": 20
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 28.32957,
+            "acceptance_rate": 36.37681
+          },
+          "medium": {
+            "completion": 7.0937,
+            "acceptance_rate": 24.76895
+          },
+          "hard": {
+            "completion": 0.58343,
+            "acceptance_rate": 6.84932
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Ashwa_govi1",
+    "display_name": "Ashwa Govi1",
+    "collected_at": "2025-08-02T10:09:03.515077+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Ashwa_govi1",
+        "real_name": "Ashwanthika Govindaraja",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/cI6Uk341Ms/avatar_1752585362.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 347942,
+        "reputation": 0,
+        "easy_solved": 191,
+        "medium_solved": 108,
+        "hard_solved": 16,
+        "total_solved": 315,
+        "easy_acceptance_rate": 89.67136,
+        "medium_acceptance_rate": 83.07692,
+        "hard_acceptance_rate": 88.88889,
+        "overall_acceptance_rate": 87.25762,
+        "language_stats": {
+          "C++": 267,
+          "Bash": 4,
+          "Java": 15,
+          "MySQL": 24,
+          "Python": 5,
+          "Python3": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 21.55756,
+            "acceptance_rate": 89.67136
+          },
+          "medium": {
+            "completion": 5.71731,
+            "acceptance_rate": 83.07692
+          },
+          "hard": {
+            "completion": 1.86698,
+            "acceptance_rate": 88.88889
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "balarathi_p",
+    "display_name": "Balarathi P",
+    "collected_at": "2025-08-02T10:09:08.291984+00:00",
+    "data": {
+      "full_profile": {
+        "username": "balarathi_p",
+        "real_name": "Balarathi",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/IpE3p1JWVD/avatar_1725884087.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 265364,
+        "reputation": 0,
+        "easy_solved": 250,
+        "medium_solved": 116,
+        "hard_solved": 7,
+        "total_solved": 373,
+        "easy_acceptance_rate": 50.1002,
+        "medium_acceptance_rate": 34.93976,
+        "hard_acceptance_rate": 16.66667,
+        "overall_acceptance_rate": 42.72623,
+        "language_stats": {
+          "C++": 122,
+          "Java": 17,
+          "MySQL": 2,
+          "Python": 18,
+          "Python3": 221,
+          "JavaScript": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 28.2167,
+            "acceptance_rate": 50.1002
+          },
+          "medium": {
+            "completion": 6.14082,
+            "acceptance_rate": 34.93976
+          },
+          "hard": {
+            "completion": 0.8168,
+            "acceptance_rate": 16.66667
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Barkavi_010",
+    "display_name": "Barkavi 010",
+    "collected_at": "2025-08-02T10:09:12.281919+00:00",
+    "data": {
+      "full_profile": {
+        "username": "barkavi_010",
+        "real_name": "barkavi_rajesh_006",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 211805,
+        "reputation": 0,
+        "easy_solved": 226,
+        "medium_solved": 186,
+        "hard_solved": 12,
+        "total_solved": 424,
+        "easy_acceptance_rate": 77.39726,
+        "medium_acceptance_rate": 63.48123,
+        "hard_acceptance_rate": 27.27273,
+        "overall_acceptance_rate": 67.40859,
+        "language_stats": {
+          "C": 2,
+          "C++": 239,
+          "Java": 10,
+          "MySQL": 80,
+          "Python": 7,
+          "Python3": 60,
+          "JavaScript": 31
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 25.5079,
+            "acceptance_rate": 77.39726
+          },
+          "medium": {
+            "completion": 9.84648,
+            "acceptance_rate": 63.48123
+          },
+          "hard": {
+            "completion": 1.40023,
+            "acceptance_rate": 27.27273
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "blessow",
+    "display_name": "Blessow",
+    "collected_at": "2025-08-02T10:09:16.28721+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Blessow",
+        "real_name": "Blessow M",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/Blessow/avatar_1720874371.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 240783,
+        "reputation": 0,
+        "easy_solved": 266,
+        "medium_solved": 122,
+        "hard_solved": 7,
+        "total_solved": 395,
+        "easy_acceptance_rate": 66.5,
+        "medium_acceptance_rate": 51.91489,
+        "hard_acceptance_rate": 63.63636,
+        "overall_acceptance_rate": 61.14551,
+        "language_stats": {
+          "C++": 32,
+          "Java": 351,
+          "MySQL": 11,
+          "Pandas": 4,
+          "Python": 1,
+          "Python3": 8,
+          "JavaScript": 4
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 30.02257,
+            "acceptance_rate": 66.5
+          },
+          "medium": {
+            "completion": 6.45844,
+            "acceptance_rate": 51.91489
+          },
+          "hard": {
+            "completion": 0.8168,
+            "acceptance_rate": 63.63636
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "VEDHADEVAREDDY",
+    "display_name": "Vedha Deva Reddy",
+    "collected_at": "2025-08-02T10:09:21.323632+00:00",
+    "data": {
+      "full_profile": {
+        "username": "VEDHADEVAREDDY",
+        "real_name": "Devareddy Vedha28",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 317579,
+        "reputation": 0,
+        "easy_solved": 203,
+        "medium_solved": 99,
+        "hard_solved": 32,
+        "total_solved": 334,
+        "easy_acceptance_rate": 84.93724,
+        "medium_acceptance_rate": 79.83871,
+        "hard_acceptance_rate": 65.30612,
+        "overall_acceptance_rate": 81.06796,
+        "language_stats": {
+          "C": 1,
+          "C++": 316,
+          "Bash": 2,
+          "Java": 2,
+          "MySQL": 13,
+          "Python3": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 22.91196,
+            "acceptance_rate": 84.93724
+          },
+          "medium": {
+            "completion": 5.24087,
+            "acceptance_rate": 79.83871
+          },
+          "hard": {
+            "completion": 3.73396,
+            "acceptance_rate": 65.30612
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Dhiva257",
+    "display_name": "Dhiva 257",
+    "collected_at": "2025-08-02T10:09:25.546281+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Dhiva257",
+        "real_name": "Dhivashini R",
+        "about_me": "devoloping sectors",
+        "avatar_url": "https://assets.leetcode.com/users/Dhiva257/avatar_1726674209.png",
+        "location": "India%Tamil Nadu%Mayiladuthurai",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 259552,
+        "reputation": 0,
+        "easy_solved": 270,
+        "medium_solved": 102,
+        "hard_solved": 6,
+        "total_solved": 378,
+        "easy_acceptance_rate": 65.3753,
+        "medium_acceptance_rate": 44.34783,
+        "hard_acceptance_rate": 40.0,
+        "overall_acceptance_rate": 57.44681,
+        "language_stats": {
+          "C++": 6,
+          "Java": 328,
+          "MySQL": 18,
+          "Pandas": 15,
+          "Python3": 1,
+          "JavaScript": 10,
+          "MS SQL Server": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 30.47404,
+            "acceptance_rate": 65.3753
+          },
+          "medium": {
+            "completion": 5.39968,
+            "acceptance_rate": 44.34783
+          },
+          "hard": {
+            "completion": 0.70012,
+            "acceptance_rate": 40.0
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Gokul__0",
+    "display_name": "Gokul 0",
+    "collected_at": "2025-08-02T10:09:34.926526+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Gokul__0",
+        "real_name": "Gokul",
+        "about_me": "Bonjour¡¡!\r\n\r\n\r\n",
+        "avatar_url": "https://assets.leetcode.com/users/Gokul_0/avatar_1725343344.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "Chennai Institute Of Technology",
+        "star_rating": 2.5,
+        "ranking": 210849,
+        "reputation": 0,
+        "easy_solved": 304,
+        "medium_solved": 116,
+        "hard_solved": 5,
+        "total_solved": 425,
+        "easy_acceptance_rate": 51.6129,
+        "medium_acceptance_rate": 39.18919,
+        "hard_acceptance_rate": 20.83333,
+        "overall_acceptance_rate": 46.75468,
+        "language_stats": {
+          "C++": 137,
+          "Java": 55,
+          "MySQL": 57,
+          "Pandas": 1,
+          "Python": 283,
+          "Python3": 27,
+          "JavaScript": 5
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 34.31151,
+            "acceptance_rate": 51.6129
+          },
+          "medium": {
+            "completion": 6.14082,
+            "acceptance_rate": 39.18919
+          },
+          "hard": {
+            "completion": 0.58343,
+            "acceptance_rate": 20.83333
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Hemhalatha06",
+    "display_name": "Hemhalatha",
+    "collected_at": "2025-08-02T10:09:38.936979+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Hemhalatha06",
+        "real_name": "Hemhalatha06",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/Hemhalatha06/avatar_1725636630.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "Chennai Institute Of Technology",
+        "star_rating": 3.0,
+        "ranking": 80696,
+        "reputation": 0,
+        "easy_solved": 464,
+        "medium_solved": 186,
+        "hard_solved": 8,
+        "total_solved": 658,
+        "easy_acceptance_rate": 59.6401,
+        "medium_acceptance_rate": 34.57249,
+        "hard_acceptance_rate": 18.60465,
+        "overall_acceptance_rate": 48.41795,
+        "language_stats": {
+          "C": 1,
+          "C++": 162,
+          "MySQL": 54,
+          "Pandas": 15,
+          "Python": 6,
+          "Python3": 449,
+          "JavaScript": 5
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 52.3702,
+            "acceptance_rate": 59.6401
+          },
+          "medium": {
+            "completion": 9.84648,
+            "acceptance_rate": 34.57249
+          },
+          "hard": {
+            "completion": 0.93349,
+            "acceptance_rate": 18.60465
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "hemprasath80",
+    "display_name": "Hemprasath 80",
+    "collected_at": "2025-08-02T10:09:44.861838+00:00",
+    "data": {
+      "full_profile": {
+        "username": "hemprasath80",
+        "real_name": "hemprasath80",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "India%Tamil Nadu%Panruti",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 209014,
+        "reputation": 0,
+        "easy_solved": 317,
+        "medium_solved": 101,
+        "hard_solved": 9,
+        "total_solved": 427,
+        "easy_acceptance_rate": 45.48063,
+        "medium_acceptance_rate": 23.16514,
+        "hard_acceptance_rate": 16.36364,
+        "overall_acceptance_rate": 35.94276,
+        "language_stats": {
+          "C++": 8,
+          "Java": 127,
+          "MySQL": 22,
+          "Python": 1,
+          "Python3": 281
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 35.77878,
+            "acceptance_rate": 45.48063
+          },
+          "medium": {
+            "completion": 5.34674,
+            "acceptance_rate": 23.16514
+          },
+          "hard": {
+            "completion": 1.05018,
+            "acceptance_rate": 16.36364
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "irfanullahbaig",
+    "display_name": "Irfanullah Baig",
+    "collected_at": "2025-08-02T10:09:51.773285+00:00",
+    "data": {
+      "full_profile": {
+        "username": "irfanullahbaig",
+        "real_name": "IRFAN",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "India%Tamil Nadu%Cuddalore",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 291895,
+        "reputation": 0,
+        "easy_solved": 297,
+        "medium_solved": 69,
+        "hard_solved": 5,
+        "total_solved": 371,
+        "easy_acceptance_rate": 62.52632,
+        "medium_acceptance_rate": 49.64029,
+        "hard_acceptance_rate": 83.33333,
+        "overall_acceptance_rate": 59.83871,
+        "language_stats": {
+          "C++": 6,
+          "Java": 1,
+          "MySQL": 53,
+          "Pandas": 3,
+          "Python": 4,
+          "Python3": 303,
+          "JavaScript": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 33.52144,
+            "acceptance_rate": 62.52632
+          },
+          "medium": {
+            "completion": 3.65273,
+            "acceptance_rate": 49.64029
+          },
+          "hard": {
+            "completion": 0.58343,
+            "acceptance_rate": 83.33333
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "MRIDINIJ",
+    "display_name": "Mridini J",
+    "collected_at": "2025-08-02T10:10:00.629513+00:00",
+    "data": {
+      "full_profile": {
+        "username": "MRIDINIJ",
+        "real_name": "MRIDINIJ",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 234706,
+        "reputation": 0,
+        "easy_solved": 199,
+        "medium_solved": 175,
+        "hard_solved": 28,
+        "total_solved": 402,
+        "easy_acceptance_rate": 51.15681,
+        "medium_acceptance_rate": 50.0,
+        "hard_acceptance_rate": 57.14286,
+        "overall_acceptance_rate": 51.01523,
+        "language_stats": {
+          "C++": 262,
+          "Java": 121,
+          "Python": 2,
+          "Python3": 17
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Advanced",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 22.4605,
+            "acceptance_rate": 51.15681
+          },
+          "medium": {
+            "completion": 9.26416,
+            "acceptance_rate": 50.0
+          },
+          "hard": {
+            "completion": 3.26721,
+            "acceptance_rate": 57.14286
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Suraj0517",
+    "display_name": "Suraj 0517",
+    "collected_at": "2025-08-02T10:10:05.264993+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Suraj0517",
+        "real_name": "Suraj0517",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 333232,
+        "reputation": 0,
+        "easy_solved": 203,
+        "medium_solved": 115,
+        "hard_solved": 7,
+        "total_solved": 325,
+        "easy_acceptance_rate": 68.35017,
+        "medium_acceptance_rate": 60.84656,
+        "hard_acceptance_rate": 36.84211,
+        "overall_acceptance_rate": 64.35644,
+        "language_stats": {
+          "Python3": 324,
+          "JavaScript": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 22.91196,
+            "acceptance_rate": 68.35017
+          },
+          "medium": {
+            "completion": 6.08788,
+            "acceptance_rate": 60.84656
+          },
+          "hard": {
+            "completion": 0.8168,
+            "acceptance_rate": 36.84211
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Yathish_2006",
+    "display_name": "Yathish 2006",
+    "collected_at": "2025-08-02T10:10:09.582878+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Yathish_2006",
+        "real_name": "J YATHISH",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/yathish2006/avatar_1725980672.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 76300,
+        "reputation": 14,
+        "easy_solved": 298,
+        "medium_solved": 317,
+        "hard_solved": 56,
+        "total_solved": 671,
+        "easy_acceptance_rate": 29.18707,
+        "medium_acceptance_rate": 21.93772,
+        "hard_acceptance_rate": 31.28492,
+        "overall_acceptance_rate": 25.36862,
+        "language_stats": {
+          "C++": 388,
+          "Java": 12,
+          "Python": 1,
+          "Python3": 322,
+          "JavaScript": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Advanced",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 33.63431,
+            "acceptance_rate": 29.18707
+          },
+          "medium": {
+            "completion": 16.78137,
+            "acceptance_rate": 21.93772
+          },
+          "hard": {
+            "completion": 6.53442,
+            "acceptance_rate": 31.28492
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "jack-v14",
+    "display_name": "Jack V14",
+    "collected_at": "2025-08-02T10:10:16.647894+00:00",
+    "data": {
+      "full_profile": {
+        "username": "jack-v14",
+        "real_name": "jack v",
+        "about_me": "I'm a developer who loves coding and creating things for the web. I work with C, C++, Python, HTML, CSS, and JavaScript, building dynamic and responsive websites. I also enjoy video editing, which adds a creative touch to my skill set. Always learning, always building—excited to take on new challenges in development and multimedia!",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "India%Tamil Nadu%Jayamkondacholapuram",
+        "company": null,
+        "school": "Chennai Institute Of  Technology",
+        "star_rating": 2.5,
+        "ranking": 222400,
+        "reputation": 0,
+        "easy_solved": 254,
+        "medium_solved": 144,
+        "hard_solved": 15,
+        "total_solved": 413,
+        "easy_acceptance_rate": 57.72727,
+        "medium_acceptance_rate": 51.42857,
+        "hard_acceptance_rate": 46.875,
+        "overall_acceptance_rate": 54.92021,
+        "language_stats": {
+          "C++": 381,
+          "Bash": 2,
+          "Java": 6,
+          "Rust": 1,
+          "Python": 1,
+          "Python3": 29,
+          "JavaScript": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 28.66817,
+            "acceptance_rate": 57.72727
+          },
+          "medium": {
+            "completion": 7.62308,
+            "acceptance_rate": 51.42857
+          },
+          "hard": {
+            "completion": 1.75029,
+            "acceptance_rate": 46.875
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Jaiganesh16",
+    "display_name": "Jaiganesh 16",
+    "collected_at": "2025-08-02T10:10:21.050445+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Jaiganesh16",
+        "real_name": "Jaiganesh",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/Jaiganesh16/avatar_1726659271.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "Chennai Institute of Technology",
+        "star_rating": 2.5,
+        "ranking": 172333,
+        "reputation": 0,
+        "easy_solved": 293,
+        "medium_solved": 172,
+        "hard_solved": 8,
+        "total_solved": 473,
+        "easy_acceptance_rate": 62.07627,
+        "medium_acceptance_rate": 47.12329,
+        "hard_acceptance_rate": 44.44444,
+        "overall_acceptance_rate": 55.32164,
+        "language_stats": {
+          "C++": 40,
+          "Java": 366,
+          "Python3": 70
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 33.06998,
+            "acceptance_rate": 62.07627
+          },
+          "medium": {
+            "completion": 9.10535,
+            "acceptance_rate": 47.12329
+          },
+          "hard": {
+            "completion": 0.93349,
+            "acceptance_rate": 44.44444
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "jeevapriyan10",
+    "display_name": "Jeevapriyan 10",
+    "collected_at": "2025-08-02T10:10:25.689995+00:00",
+    "data": {
+      "full_profile": {
+        "username": "jeevapriyan10",
+        "real_name": "JEEVA PRIYAN R",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/jeevapriyan10/avatar_1745119947.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "Chennai Institute of Technology",
+        "star_rating": 2.5,
+        "ranking": 152719,
+        "reputation": 0,
+        "easy_solved": 319,
+        "medium_solved": 167,
+        "hard_solved": 15,
+        "total_solved": 501,
+        "easy_acceptance_rate": 57.78986,
+        "medium_acceptance_rate": 41.43921,
+        "hard_acceptance_rate": 27.77778,
+        "overall_acceptance_rate": 49.65312,
+        "language_stats": {
+          "C": 4,
+          "C++": 248,
+          "MySQL": 3,
+          "Pandas": 1,
+          "Python3": 271,
+          "JavaScript": 5
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 36.00451,
+            "acceptance_rate": 57.78986
+          },
+          "medium": {
+            "completion": 8.84066,
+            "acceptance_rate": 41.43921
+          },
+          "hard": {
+            "completion": 1.75029,
+            "acceptance_rate": 27.77778
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Mohit75",
+    "display_name": "Mohit 75",
+    "collected_at": "2025-08-02T10:10:32.26522+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Mohit75",
+        "real_name": "Mohi",
+        "about_me": "Hi, I am Mohit",
+        "avatar_url": "https://assets.leetcode.com/users/Mohit75/avatar_1732703269.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 203631,
+        "reputation": 0,
+        "easy_solved": 308,
+        "medium_solved": 112,
+        "hard_solved": 16,
+        "total_solved": 436,
+        "easy_acceptance_rate": 52.02703,
+        "medium_acceptance_rate": 73.68421,
+        "hard_acceptance_rate": 69.56522,
+        "overall_acceptance_rate": 56.84485,
+        "language_stats": {
+          "C": 1,
+          "Go": 25,
+          "C++": 78,
+          "Bash": 4,
+          "Java": 22,
+          "MySQL": 72,
+          "Oracle": 1,
+          "Pandas": 14,
+          "Python": 1,
+          "Python3": 197,
+          "JavaScript": 24,
+          "TypeScript": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 34.76298,
+            "acceptance_rate": 52.02703
+          },
+          "medium": {
+            "completion": 5.92906,
+            "acceptance_rate": 73.68421
+          },
+          "hard": {
+            "completion": 1.86698,
+            "acceptance_rate": 69.56522
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "shashanthk",
+    "display_name": "Shashanth K",
+    "collected_at": "2025-08-02T10:10:37.366494+00:00",
+    "data": {
+      "full_profile": {
+        "username": "ShashanthK",
+        "real_name": "Shashanth k",
+        "about_me": "coding",
+        "avatar_url": "https://assets.leetcode.com/users/Shashanthk/avatar_1731399664.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "cit chennai",
+        "star_rating": 2.5,
+        "ranking": 144965,
+        "reputation": 0,
+        "easy_solved": 314,
+        "medium_solved": 176,
+        "hard_solved": 23,
+        "total_solved": 513,
+        "easy_acceptance_rate": 53.67521,
+        "medium_acceptance_rate": 69.29134,
+        "hard_acceptance_rate": 46.93878,
+        "overall_acceptance_rate": 57.77027,
+        "language_stats": {
+          "C": 3,
+          "C++": 26,
+          "Bash": 1,
+          "Java": 2,
+          "Rust": 2,
+          "MySQL": 30,
+          "Pandas": 16,
+          "Python": 7,
+          "Python3": 425,
+          "JavaScript": 1,
+          "PostgreSQL": 1,
+          "TypeScript": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 35.44018,
+            "acceptance_rate": 53.67521
+          },
+          "medium": {
+            "completion": 9.3171,
+            "acceptance_rate": 69.29134
+          },
+          "hard": {
+            "completion": 2.68378,
+            "acceptance_rate": 46.93878
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "KanishJebaMathewM",
+    "display_name": "Kanish Jeba Mathew M",
+    "collected_at": "2025-08-02T10:10:42.952047+00:00",
+    "data": {
+      "full_profile": {
+        "username": "KanishJebaMathewM",
+        "real_name": "KanishJebaMathewM",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/KanishJebaMathewM/avatar_1747817079.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "Chennai Institute of Technology",
+        "star_rating": 3.0,
+        "ranking": 103990,
+        "reputation": 16,
+        "easy_solved": 436,
+        "medium_solved": 154,
+        "hard_solved": 4,
+        "total_solved": 594,
+        "easy_acceptance_rate": 33.92996,
+        "medium_acceptance_rate": 22.25434,
+        "hard_acceptance_rate": 7.14286,
+        "overall_acceptance_rate": 29.2179,
+        "language_stats": {
+          "C": 68,
+          "C#": 2,
+          "Go": 15,
+          "C++": 357,
+          "PHP": 3,
+          "Java": 27,
+          "Ruby": 2,
+          "Rust": 1,
+          "MySQL": 3,
+          "Scala": 1,
+          "Swift": 2,
+          "Kotlin": 2,
+          "Python": 3,
+          "Python3": 443,
+          "JavaScript": 25,
+          "TypeScript": 3
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 49.20993,
+            "acceptance_rate": 33.92996
+          },
+          "medium": {
+            "completion": 8.15246,
+            "acceptance_rate": 22.25434
+          },
+          "hard": {
+            "completion": 0.46674,
+            "acceptance_rate": 7.14286
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "mkaushikkavindra",
+    "display_name": "M. Kaushik Kavindra",
+    "collected_at": "2025-08-02T10:10:50.054551+00:00",
+    "data": {
+      "full_profile": {
+        "username": "mkaushikkavindra",
+        "real_name": "Kaushik Kavindra M",
+        "about_me": "Learner | Competitive Programming | Student at Chennai Institute of Technology (B.E. Computer Science and Engineering) (2024-28)",
+        "avatar_url": "https://assets.leetcode.com/users/mkaushikkavindra/avatar_1731342314.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "Chennai Institute of Technology",
+        "star_rating": 2.5,
+        "ranking": 148824,
+        "reputation": 1,
+        "easy_solved": 405,
+        "medium_solved": 99,
+        "hard_solved": 3,
+        "total_solved": 507,
+        "easy_acceptance_rate": 51.20101,
+        "medium_acceptance_rate": 34.49477,
+        "hard_acceptance_rate": 7.5,
+        "overall_acceptance_rate": 45.34884,
+        "language_stats": {
+          "C": 2,
+          "C#": 1,
+          "C++": 364,
+          "Java": 31,
+          "MySQL": 73,
+          "Python": 58,
+          "Python3": 6,
+          "JavaScript": 4,
+          "TypeScript": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 45.71106,
+            "acceptance_rate": 51.20101
+          },
+          "medium": {
+            "completion": 5.24087,
+            "acceptance_rate": 34.49477
+          },
+          "hard": {
+            "completion": 0.35006,
+            "acceptance_rate": 7.5
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "kaysav18",
+    "display_name": "Kaysav 18",
+    "collected_at": "2025-08-02T10:10:54.968257+00:00",
+    "data": {
+      "full_profile": {
+        "username": "kaysav18",
+        "real_name": "CodeConquerorX",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/kaysav18/avatar_1735839165.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "Chennai Institute of Technology",
+        "star_rating": 2.5,
+        "ranking": 185341,
+        "reputation": 9,
+        "easy_solved": 332,
+        "medium_solved": 120,
+        "hard_solved": 4,
+        "total_solved": 456,
+        "easy_acceptance_rate": 54.5156,
+        "medium_acceptance_rate": 31.16883,
+        "hard_acceptance_rate": 9.09091,
+        "overall_acceptance_rate": 43.93064,
+        "language_stats": {
+          "C": 2,
+          "C#": 2,
+          "Go": 1,
+          "C++": 434,
+          "PHP": 2,
+          "Java": 4,
+          "Ruby": 2,
+          "Rust": 1,
+          "MySQL": 13,
+          "Scala": 1,
+          "Swift": 2,
+          "Kotlin": 2,
+          "Python": 1,
+          "Python3": 7,
+          "JavaScript": 8,
+          "TypeScript": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 37.47178,
+            "acceptance_rate": 54.5156
+          },
+          "medium": {
+            "completion": 6.35257,
+            "acceptance_rate": 31.16883
+          },
+          "hard": {
+            "completion": 0.46674,
+            "acceptance_rate": 9.09091
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Keerthana_K_S",
+    "display_name": "Keerthana K S",
+    "collected_at": "2025-08-02T10:11:01.045653+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Keerthana_K_S",
+        "real_name": "Keerthana K S",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "India%Tamil Nadu%Arni",
+        "company": null,
+        "school": "Chennai institute of technology ",
+        "star_rating": 2.5,
+        "ranking": 144366,
+        "reputation": 0,
+        "easy_solved": 374,
+        "medium_solved": 134,
+        "hard_solved": 7,
+        "total_solved": 515,
+        "easy_acceptance_rate": 50.20134,
+        "medium_acceptance_rate": 50.95057,
+        "hard_acceptance_rate": 11.86441,
+        "overall_acceptance_rate": 48.26617,
+        "language_stats": {
+          "C++": 263,
+          "Java": 150,
+          "MySQL": 20,
+          "Python3": 220
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 42.21219,
+            "acceptance_rate": 50.20134
+          },
+          "medium": {
+            "completion": 7.0937,
+            "acceptance_rate": 50.95057
+          },
+          "hard": {
+            "completion": 0.8168,
+            "acceptance_rate": 11.86441
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Lokith_S",
+    "display_name": "Lokith S",
+    "collected_at": "2025-08-02T10:11:05.65159+00:00",
+    "data": {
+      "full_profile": {
+        "username": "lokith_S",
+        "real_name": "lokith_S",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 1.5,
+        "ranking": 1693215,
+        "reputation": 0,
+        "easy_solved": 51,
+        "medium_solved": 14,
+        "hard_solved": 2,
+        "total_solved": 67,
+        "easy_acceptance_rate": 87.93103,
+        "medium_acceptance_rate": 46.66667,
+        "hard_acceptance_rate": 100.0,
+        "overall_acceptance_rate": 74.44444,
+        "language_stats": {
+          "C": 41,
+          "C++": 2,
+          "Java": 24
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Beginner",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 5.75621,
+            "acceptance_rate": 87.93103
+          },
+          "medium": {
+            "completion": 0.74113,
+            "acceptance_rate": 46.66667
+          },
+          "hard": {
+            "completion": 0.23337,
+            "acceptance_rate": 100.0
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "bhuvaneswar_123_new",
+    "display_name": "Bhuvaneswar 123 New",
+    "collected_at": "2025-08-02T10:11:09.76016+00:00",
+    "data": {
+      "full_profile": {
+        "username": "bhuvaneswar_123_new",
+        "real_name": "bhuvaneswar_123_new",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 0.5,
+        "ranking": 5000001,
+        "reputation": 0,
+        "easy_solved": 0,
+        "medium_solved": 2,
+        "hard_solved": 0,
+        "total_solved": 2,
+        "easy_acceptance_rate": 0.0,
+        "medium_acceptance_rate": 33.33333,
+        "hard_acceptance_rate": 0.0,
+        "overall_acceptance_rate": 33.33333,
+        "language_stats": {
+          "Python3": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Beginner",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 0.0,
+            "acceptance_rate": 0.0
+          },
+          "medium": {
+            "completion": 0.10588,
+            "acceptance_rate": 33.33333
+          },
+          "hard": {
+            "completion": 0.0,
+            "acceptance_rate": 0.0
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Manoj_2007",
+    "display_name": "Manoj 2007",
+    "collected_at": "2025-08-02T10:11:13.983658+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Manoj_2007",
+        "real_name": "Manoj shivprasad",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/Manoj_2007/avatar_1726299459.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 157820,
+        "reputation": 0,
+        "easy_solved": 193,
+        "medium_solved": 273,
+        "hard_solved": 27,
+        "total_solved": 493,
+        "easy_acceptance_rate": 44.47005,
+        "medium_acceptance_rate": 34.0824,
+        "hard_acceptance_rate": 20.93023,
+        "overall_acceptance_rate": 36.1437,
+        "language_stats": {
+          "C++": 341,
+          "Python": 2,
+          "Python3": 191
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Advanced",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 21.7833,
+            "acceptance_rate": 44.47005
+          },
+          "medium": {
+            "completion": 14.45209,
+            "acceptance_rate": 34.0824
+          },
+          "hard": {
+            "completion": 3.15053,
+            "acceptance_rate": 20.93023
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "nasht123",
+    "display_name": "Nasht 123",
+    "collected_at": "2025-08-02T10:11:20.158997+00:00",
+    "data": {
+      "full_profile": {
+        "username": "nasht123",
+        "real_name": "Natasha Patnaik",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 52925,
+        "reputation": 0,
+        "easy_solved": 468,
+        "medium_solved": 266,
+        "hard_solved": 32,
+        "total_solved": 766,
+        "easy_acceptance_rate": 71.55963,
+        "medium_acceptance_rate": 51.65049,
+        "hard_acceptance_rate": 29.09091,
+        "overall_acceptance_rate": 59.89054,
+        "language_stats": {
+          "C++": 643,
+          "Java": 131,
+          "Python3": 4
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Advanced",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 52.82167,
+            "acceptance_rate": 71.55963
+          },
+          "medium": {
+            "completion": 14.08152,
+            "acceptance_rate": 51.65049
+          },
+          "hard": {
+            "completion": 3.73396,
+            "acceptance_rate": 29.09091
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "navdeep90",
+    "display_name": "Navdeep 90",
+    "collected_at": "2025-08-02T10:11:26.363253+00:00",
+    "data": {
+      "full_profile": {
+        "username": "navdeep90",
+        "real_name": "navdeep90",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/navdeep90/avatar_1719407126.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 94057,
+        "reputation": 1,
+        "easy_solved": 312,
+        "medium_solved": 294,
+        "hard_solved": 15,
+        "total_solved": 621,
+        "easy_acceptance_rate": 30.26188,
+        "medium_acceptance_rate": 34.62898,
+        "hard_acceptance_rate": 31.25,
+        "overall_acceptance_rate": 32.20954,
+        "language_stats": {
+          "C": 17,
+          "C++": 281,
+          "Java": 1,
+          "MySQL": 10,
+          "Python": 296,
+          "Python3": 109,
+          "JavaScript": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 35.21445,
+            "acceptance_rate": 30.26188
+          },
+          "medium": {
+            "completion": 15.56379,
+            "acceptance_rate": 34.62898
+          },
+          "hard": {
+            "completion": 1.75029,
+            "acceptance_rate": 31.25
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "nithishkumar31",
+    "display_name": "Nithish Kumar 31",
+    "collected_at": "2025-08-02T10:11:34.55219+00:00",
+    "data": {
+      "full_profile": {
+        "username": "nithishkumar31",
+        "real_name": "nithishkumar31",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 216527,
+        "reputation": 0,
+        "easy_solved": 195,
+        "medium_solved": 209,
+        "hard_solved": 27,
+        "total_solved": 431,
+        "easy_acceptance_rate": 82.97872,
+        "medium_acceptance_rate": 86.36364,
+        "hard_acceptance_rate": 100.0,
+        "overall_acceptance_rate": 85.51587,
+        "language_stats": {
+          "C++": 386,
+          "Bash": 1,
+          "Java": 24,
+          "MySQL": 13,
+          "Python3": 7
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Advanced",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 22.00903,
+            "acceptance_rate": 82.97872
+          },
+          "medium": {
+            "completion": 11.06406,
+            "acceptance_rate": 86.36364
+          },
+          "hard": {
+            "completion": 3.15053,
+            "acceptance_rate": 100.0
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "2AsN9Z6O5Q",
+    "display_name": "2AsN9Z6O5Q",
+    "collected_at": "2025-08-02T10:11:39.144504+00:00",
+    "data": {
+      "full_profile": {
+        "username": "2AsN9Z6O5Q",
+        "real_name": "Pebin Joseph A",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/2AsN9Z6O5Q/avatar_1750556206.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 1.0,
+        "ranking": 2303378,
+        "reputation": 0,
+        "easy_solved": 9,
+        "medium_solved": 32,
+        "hard_solved": 2,
+        "total_solved": 43,
+        "easy_acceptance_rate": 69.23077,
+        "medium_acceptance_rate": 56.14035,
+        "hard_acceptance_rate": 40.0,
+        "overall_acceptance_rate": 57.33333,
+        "language_stats": {
+          "C++": 38,
+          "Python3": 5
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Beginner",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 1.0158,
+            "acceptance_rate": 69.23077
+          },
+          "medium": {
+            "completion": 1.69402,
+            "acceptance_rate": 56.14035
+          },
+          "hard": {
+            "completion": 0.23337,
+            "acceptance_rate": 40.0
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Pio_Godwin",
+    "display_name": "Pio Godwin",
+    "collected_at": "2025-08-02T10:11:43.40018+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Pio_Godwin",
+        "real_name": "Pio Godwin",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 77216,
+        "reputation": 0,
+        "easy_solved": 386,
+        "medium_solved": 250,
+        "hard_solved": 32,
+        "total_solved": 668,
+        "easy_acceptance_rate": 59.84496,
+        "medium_acceptance_rate": 46.64179,
+        "hard_acceptance_rate": 41.02564,
+        "overall_acceptance_rate": 53.05798,
+        "language_stats": {
+          "C++": 2,
+          "Java": 623,
+          "MySQL": 40,
+          "Python3": 2,
+          "JavaScript": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Advanced",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 43.56659,
+            "acceptance_rate": 59.84496
+          },
+          "medium": {
+            "completion": 13.23452,
+            "acceptance_rate": 46.64179
+          },
+          "hard": {
+            "completion": 3.73396,
+            "acceptance_rate": 41.02564
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "v_s_poovendhiran",
+    "display_name": "V S Poovendhiran",
+    "collected_at": "2025-08-02T10:11:48.834104+00:00",
+    "data": {
+      "full_profile": {
+        "username": "V_S_POOVENDHIRAN",
+        "real_name": "vspoovendhiran",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 115011,
+        "reputation": 0,
+        "easy_solved": 324,
+        "medium_solved": 228,
+        "hard_solved": 17,
+        "total_solved": 569,
+        "easy_acceptance_rate": 56.74256,
+        "medium_acceptance_rate": 53.14685,
+        "hard_acceptance_rate": 43.58974,
+        "overall_acceptance_rate": 54.7642,
+        "language_stats": {
+          "C": 1,
+          "C++": 567,
+          "Python3": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 36.56885,
+            "acceptance_rate": 56.74256
+          },
+          "medium": {
+            "completion": 12.06988,
+            "acceptance_rate": 53.14685
+          },
+          "hard": {
+            "completion": 1.98366,
+            "acceptance_rate": 43.58974
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "prabanjanm",
+    "display_name": "Prabanjan M",
+    "collected_at": "2025-08-02T10:11:54.242562+00:00",
+    "data": {
+      "full_profile": {
+        "username": "prabanjanm",
+        "real_name": "prabanjanm",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/prabanjanm/avatar_1729961832.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 32424,
+        "reputation": 0,
+        "easy_solved": 521,
+        "medium_solved": 355,
+        "hard_solved": 21,
+        "total_solved": 897,
+        "easy_acceptance_rate": 76.28111,
+        "medium_acceptance_rate": 61.95462,
+        "hard_acceptance_rate": 29.57746,
+        "overall_acceptance_rate": 67.59608,
+        "language_stats": {
+          "C++": 2,
+          "Bash": 2,
+          "Java": 868,
+          "MySQL": 22,
+          "Python3": 1,
+          "JavaScript": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 58.80361,
+            "acceptance_rate": 76.28111
+          },
+          "medium": {
+            "completion": 18.79301,
+            "acceptance_rate": 61.95462
+          },
+          "hard": {
+            "completion": 2.45041,
+            "acceptance_rate": 29.57746
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "PREETHIKHA_S",
+    "display_name": "Preethikha S",
+    "collected_at": "2025-08-02T10:11:59.939823+00:00",
+    "data": {
+      "full_profile": {
+        "username": "PREETHIKHA_S",
+        "real_name": "PREETHIKHA S",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 131020,
+        "reputation": 1,
+        "easy_solved": 359,
+        "medium_solved": 166,
+        "hard_solved": 12,
+        "total_solved": 537,
+        "easy_acceptance_rate": 44.93116,
+        "medium_acceptance_rate": 21.58648,
+        "hard_acceptance_rate": 14.28571,
+        "overall_acceptance_rate": 32.50605,
+        "language_stats": {
+          "C++": 265,
+          "Bash": 1,
+          "Java": 1,
+          "Ruby": 1,
+          "MySQL": 23,
+          "Pandas": 15,
+          "Python": 185,
+          "Python3": 71,
+          "JavaScript": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 40.51919,
+            "acceptance_rate": 44.93116
+          },
+          "medium": {
+            "completion": 8.78772,
+            "acceptance_rate": 21.58648
+          },
+          "hard": {
+            "completion": 1.40023,
+            "acceptance_rate": 14.28571
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Prrajan_saravanan",
+    "display_name": "Prrajan Saravanan",
+    "collected_at": "2025-08-02T10:12:05.924436+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Prrajan_saravanan",
+        "real_name": "Prrajan_saravanan",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": "Chennai Institute Of Technology ",
+        "star_rating": 3.0,
+        "ranking": 117850,
+        "reputation": 0,
+        "easy_solved": 373,
+        "medium_solved": 184,
+        "hard_solved": 6,
+        "total_solved": 563,
+        "easy_acceptance_rate": 55.92204,
+        "medium_acceptance_rate": 36.65339,
+        "hard_acceptance_rate": 17.14286,
+        "overall_acceptance_rate": 46.7608,
+        "language_stats": {
+          "C++": 18,
+          "Java": 500,
+          "MySQL": 24,
+          "Pandas": 11,
+          "Python": 5,
+          "Python3": 9,
+          "JavaScript": 4
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 42.09932,
+            "acceptance_rate": 55.92204
+          },
+          "medium": {
+            "completion": 9.7406,
+            "acceptance_rate": 36.65339
+          },
+          "hard": {
+            "completion": 0.70012,
+            "acceptance_rate": 17.14286
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "R_KIRTHANA",
+    "display_name": "R Kirthana",
+    "collected_at": "2025-08-02T10:12:11.910099+00:00",
+    "data": {
+      "full_profile": {
+        "username": "R_KIRTHANA",
+        "real_name": "R_KIRTHANA",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 176806,
+        "reputation": 0,
+        "easy_solved": 297,
+        "medium_solved": 163,
+        "hard_solved": 6,
+        "total_solved": 466,
+        "easy_acceptance_rate": 64.14687,
+        "medium_acceptance_rate": 43.35106,
+        "hard_acceptance_rate": 9.52381,
+        "overall_acceptance_rate": 51.66297,
+        "language_stats": {
+          "C": 17,
+          "C++": 246,
+          "Java": 19,
+          "MySQL": 18,
+          "Pandas": 15,
+          "Python": 7,
+          "Python3": 146,
+          "JavaScript": 4
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 33.52144,
+            "acceptance_rate": 64.14687
+          },
+          "medium": {
+            "completion": 8.6289,
+            "acceptance_rate": 43.35106
+          },
+          "hard": {
+            "completion": 0.70012,
+            "acceptance_rate": 9.52381
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "ragavi632007",
+    "display_name": "Ragavi 632007",
+    "collected_at": "2025-08-02T10:12:16.92279+00:00",
+    "data": {
+      "full_profile": {
+        "username": "ragavi632007",
+        "real_name": "ragavi-632007",
+        "about_me": "Passionate CSE student",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 143795,
+        "reputation": 0,
+        "easy_solved": 328,
+        "medium_solved": 169,
+        "hard_solved": 18,
+        "total_solved": 515,
+        "easy_acceptance_rate": 92.13483,
+        "medium_acceptance_rate": 74.77876,
+        "hard_acceptance_rate": 34.61538,
+        "overall_acceptance_rate": 81.23028,
+        "language_stats": {
+          "C++": 7,
+          "Java": 432,
+          "MySQL": 37,
+          "Pandas": 16,
+          "JavaScript": 24
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 37.02032,
+            "acceptance_rate": 92.13483
+          },
+          "medium": {
+            "completion": 8.94653,
+            "acceptance_rate": 74.77876
+          },
+          "hard": {
+            "completion": 2.10035,
+            "acceptance_rate": 34.61538
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "rohithjagan",
+    "display_name": "Rohith Jagan",
+    "collected_at": "2025-08-02T10:12:21.493825+00:00",
+    "data": {
+      "full_profile": {
+        "username": "rohithjagan",
+        "real_name": "Rohith Jagan",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/DUOESy3Bp3/avatar_1715539256.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 243970,
+        "reputation": 0,
+        "easy_solved": 314,
+        "medium_solved": 71,
+        "hard_solved": 7,
+        "total_solved": 392,
+        "easy_acceptance_rate": 63.05221,
+        "medium_acceptance_rate": 34.29952,
+        "hard_acceptance_rate": 23.33333,
+        "overall_acceptance_rate": 53.33333,
+        "language_stats": {
+          "C": 4,
+          "C++": 358,
+          "Java": 17,
+          "MySQL": 7,
+          "Python3": 15,
+          "JavaScript": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 35.44018,
+            "acceptance_rate": 63.05221
+          },
+          "medium": {
+            "completion": 3.7586,
+            "acceptance_rate": 34.29952
+          },
+          "hard": {
+            "completion": 0.8168,
+            "acceptance_rate": 23.33333
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Sivahari_S",
+    "display_name": "Sivahari S",
+    "collected_at": "2025-08-02T10:12:25.831304+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Sivahari_S",
+        "real_name": "Sivahari Sivakumar",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/Sivahari_S/avatar_1725973183.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 174548,
+        "reputation": 2,
+        "easy_solved": 268,
+        "medium_solved": 182,
+        "hard_solved": 19,
+        "total_solved": 469,
+        "easy_acceptance_rate": 56.18449,
+        "medium_acceptance_rate": 50.55556,
+        "hard_acceptance_rate": 44.18605,
+        "overall_acceptance_rate": 53.29545,
+        "language_stats": {
+          "C++": 19,
+          "Java": 291,
+          "MySQL": 50,
+          "Pandas": 2,
+          "Python3": 122,
+          "JavaScript": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 30.24831,
+            "acceptance_rate": 56.18449
+          },
+          "medium": {
+            "completion": 9.63473,
+            "acceptance_rate": 50.55556
+          },
+          "hard": {
+            "completion": 2.21704,
+            "acceptance_rate": 44.18605
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "SaajidAhamed",
+    "display_name": "Saajid Ahamed",
+    "collected_at": "2025-08-02T10:12:30.27386+00:00",
+    "data": {
+      "full_profile": {
+        "username": "SaajidAhamed",
+        "real_name": "Saajid Ahamed",
+        "about_me": "Full Stack Web Developer",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "India%Tamil Nadu%Thiruvarur",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 152706,
+        "reputation": 12,
+        "easy_solved": 328,
+        "medium_solved": 164,
+        "hard_solved": 9,
+        "total_solved": 501,
+        "easy_acceptance_rate": 48.95522,
+        "medium_acceptance_rate": 42.5974,
+        "hard_acceptance_rate": 34.61538,
+        "overall_acceptance_rate": 46.34598,
+        "language_stats": {
+          "C++": 408,
+          "Java": 1,
+          "MySQL": 79,
+          "Python": 1,
+          "Python3": 1,
+          "JavaScript": 11
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 37.02032,
+            "acceptance_rate": 48.95522
+          },
+          "medium": {
+            "completion": 8.68184,
+            "acceptance_rate": 42.5974
+          },
+          "hard": {
+            "completion": 1.05018,
+            "acceptance_rate": 34.61538
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Safira_Begum",
+    "display_name": "Safira Begum",
+    "collected_at": "2025-08-02T10:12:35.823363+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Safira_Begum",
+        "real_name": "Safira_Begum",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 271380,
+        "reputation": 0,
+        "easy_solved": 216,
+        "medium_solved": 135,
+        "hard_solved": 17,
+        "total_solved": 368,
+        "easy_acceptance_rate": 84.70588,
+        "medium_acceptance_rate": 72.97297,
+        "hard_acceptance_rate": 73.91304,
+        "overall_acceptance_rate": 79.48164,
+        "language_stats": {
+          "C": 26,
+          "C++": 100,
+          "Java": 165,
+          "MySQL": 1,
+          "Python": 1,
+          "Python3": 85
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 24.37923,
+            "acceptance_rate": 84.70588
+          },
+          "medium": {
+            "completion": 7.14664,
+            "acceptance_rate": 72.97297
+          },
+          "hard": {
+            "completion": 1.98366,
+            "acceptance_rate": 73.91304
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "kuK41YJxBS",
+    "display_name": "kuK41YJxBS",
+    "collected_at": "2025-08-02T10:12:40.126365+00:00",
+    "data": {
+      "full_profile": {
+        "username": "kuK41YJxBS",
+        "real_name": "Sanjay .S",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/kuK41YJxBS/avatar_1726812313.png",
+        "location": "India%Tamil Nadu%Madurai",
+        "company": null,
+        "school": "chennai institute of technology",
+        "star_rating": 3.0,
+        "ranking": 62715,
+        "reputation": 4,
+        "easy_solved": 293,
+        "medium_solved": 375,
+        "hard_solved": 56,
+        "total_solved": 724,
+        "easy_acceptance_rate": 60.16427,
+        "medium_acceptance_rate": 51.58184,
+        "hard_acceptance_rate": 50.45045,
+        "overall_acceptance_rate": 54.64151,
+        "language_stats": {
+          "C++": 558,
+          "Java": 3,
+          "Python": 28,
+          "Python3": 144
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Advanced",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 33.06998,
+            "acceptance_rate": 60.16427
+          },
+          "medium": {
+            "completion": 19.85177,
+            "acceptance_rate": 51.58184
+          },
+          "hard": {
+            "completion": 6.53442,
+            "acceptance_rate": 50.45045
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "sellamuthu2007",
+    "display_name": "Sellamuthu 2007",
+    "collected_at": "2025-08-02T10:12:45.62496+00:00",
+    "data": {
+      "full_profile": {
+        "username": "sellamuthu2007",
+        "real_name": "sellamuthu2007",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/sellamuthu2007/avatar_1738459012.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 89205,
+        "reputation": 0,
+        "easy_solved": 315,
+        "medium_solved": 296,
+        "hard_solved": 21,
+        "total_solved": 632,
+        "easy_acceptance_rate": 52.41265,
+        "medium_acceptance_rate": 65.19824,
+        "hard_acceptance_rate": 45.65217,
+        "overall_acceptance_rate": 57.40236,
+        "language_stats": {
+          "C": 7,
+          "C++": 611,
+          "Java": 11,
+          "MySQL": 1,
+          "Python3": 3,
+          "JavaScript": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 35.55305,
+            "acceptance_rate": 52.41265
+          },
+          "medium": {
+            "completion": 15.66967,
+            "acceptance_rate": 65.19824
+          },
+          "hard": {
+            "completion": 2.45041,
+            "acceptance_rate": 45.65217
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "senthamizhselvan-sm_cse-N",
+    "display_name": "Senthamizhselvan SM",
+    "collected_at": "2025-08-02T10:12:51.024162+00:00",
+    "data": {
+      "full_profile": {
+        "username": "senthamizhselvan-sm_cse-N",
+        "real_name": "senthamizhselvan-sm_sde",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/senthamizhselvan-sm_cse-N/avatar_1753924016.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 78779,
+        "reputation": 0,
+        "easy_solved": 284,
+        "medium_solved": 333,
+        "hard_solved": 47,
+        "total_solved": 664,
+        "easy_acceptance_rate": 58.67769,
+        "medium_acceptance_rate": 46.90141,
+        "hard_acceptance_rate": 60.25641,
+        "overall_acceptance_rate": 52.20126,
+        "language_stats": {
+          "C": 1,
+          "C++": 653,
+          "Bash": 1,
+          "Dart": 1,
+          "Java": 1,
+          "MySQL": 9,
+          "Pandas": 1,
+          "JavaScript": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Advanced",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 32.05418,
+            "acceptance_rate": 58.67769
+          },
+          "medium": {
+            "completion": 17.62837,
+            "acceptance_rate": 46.90141
+          },
+          "hard": {
+            "completion": 5.48425,
+            "acceptance_rate": 60.25641
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Sreenithi369",
+    "display_name": "Sreenithi 369",
+    "collected_at": "2025-08-02T10:12:57.488316+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Sreenithi369",
+        "real_name": "Sreenithi R",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 141404,
+        "reputation": 0,
+        "easy_solved": 202,
+        "medium_solved": 283,
+        "hard_solved": 34,
+        "total_solved": 519,
+        "easy_acceptance_rate": 74.81481,
+        "medium_acceptance_rate": 76.69377,
+        "hard_acceptance_rate": 73.91304,
+        "overall_acceptance_rate": 75.76642,
+        "language_stats": {
+          "C": 3,
+          "C++": 483,
+          "Java": 19,
+          "MySQL": 24,
+          "Python": 1,
+          "Python3": 1
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Advanced",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 22.7991,
+            "acceptance_rate": 74.81481
+          },
+          "medium": {
+            "completion": 14.98147,
+            "acceptance_rate": 76.69377
+          },
+          "hard": {
+            "completion": 3.96733,
+            "acceptance_rate": 73.91304
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "SrijaaiM",
+    "display_name": "Srijaai M",
+    "collected_at": "2025-08-02T10:13:03.748749+00:00",
+    "data": {
+      "full_profile": {
+        "username": "SrijaaiM",
+        "real_name": "SrijaaimeenakshiM",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": "Chennai institute of Technology",
+        "star_rating": 2.5,
+        "ranking": 196643,
+        "reputation": 0,
+        "easy_solved": 260,
+        "medium_solved": 170,
+        "hard_solved": 11,
+        "total_solved": 441,
+        "easy_acceptance_rate": 56.39913,
+        "medium_acceptance_rate": 50.74627,
+        "hard_acceptance_rate": 35.48387,
+        "overall_acceptance_rate": 53.32527,
+        "language_stats": {
+          "Java": 429,
+          "MySQL": 12
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 29.34537,
+            "acceptance_rate": 56.39913
+          },
+          "medium": {
+            "completion": 8.99947,
+            "acceptance_rate": 50.74627
+          },
+          "hard": {
+            "completion": 1.28355,
+            "acceptance_rate": 35.48387
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "sukesh-2006",
+    "display_name": "Sukesh 2006",
+    "collected_at": "2025-08-02T10:13:08.650433+00:00",
+    "data": {
+      "full_profile": {
+        "username": "sukesh-2006",
+        "real_name": "Sukesh M",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/sukesh-2006/avatar_1739606574.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 75697,
+        "reputation": 0,
+        "easy_solved": 413,
+        "medium_solved": 243,
+        "hard_solved": 19,
+        "total_solved": 675,
+        "easy_acceptance_rate": 58.74822,
+        "medium_acceptance_rate": 52.03426,
+        "hard_acceptance_rate": 41.30435,
+        "overall_acceptance_rate": 55.50987,
+        "language_stats": {
+          "C++": 658,
+          "Java": 12,
+          "MySQL": 2,
+          "Python": 3,
+          "Python3": 1,
+          "JavaScript": 2
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 46.614,
+            "acceptance_rate": 58.74822
+          },
+          "medium": {
+            "completion": 12.86395,
+            "acceptance_rate": 52.03426
+          },
+          "hard": {
+            "completion": 2.21704,
+            "acceptance_rate": 41.30435
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "barath80",
+    "display_name": "Barath 80",
+    "collected_at": "2025-08-02T10:13:14.538566+00:00",
+    "data": {
+      "full_profile": {
+        "username": "barath80",
+        "real_name": "Sunkireddy Barath",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/barath80/avatar_1728056138.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 75385,
+        "reputation": 0,
+        "easy_solved": 413,
+        "medium_solved": 245,
+        "hard_solved": 17,
+        "total_solved": 675,
+        "easy_acceptance_rate": 51.11386,
+        "medium_acceptance_rate": 39.64401,
+        "hard_acceptance_rate": 30.90909,
+        "overall_acceptance_rate": 45.57731,
+        "language_stats": {
+          "C++": 659,
+          "Java": 39,
+          "MySQL": 8,
+          "Python": 2,
+          "Python3": 3,
+          "JavaScript": 5
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 46.614,
+            "acceptance_rate": 51.11386
+          },
+          "medium": {
+            "completion": 12.96983,
+            "acceptance_rate": 39.64401
+          },
+          "hard": {
+            "completion": 1.98366,
+            "acceptance_rate": 30.90909
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "SYLESH_",
+    "display_name": "Sylesh",
+    "collected_at": "2025-08-02T10:13:19.36536+00:00",
+    "data": {
+      "full_profile": {
+        "username": "SYLESH_",
+        "real_name": "SYLESH_",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/SYLESH_/avatar_1747709593.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 77544,
+        "reputation": 0,
+        "easy_solved": 414,
+        "medium_solved": 234,
+        "hard_solved": 19,
+        "total_solved": 667,
+        "easy_acceptance_rate": 59.14286,
+        "medium_acceptance_rate": 51.0917,
+        "hard_acceptance_rate": 36.53846,
+        "overall_acceptance_rate": 55.12397,
+        "language_stats": {
+          "C++": 314,
+          "Java": 111,
+          "MySQL": 1,
+          "Pandas": 2,
+          "Python": 33,
+          "Python3": 208,
+          "JavaScript": 3
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 46.72686,
+            "acceptance_rate": 59.14286
+          },
+          "medium": {
+            "completion": 12.38751,
+            "acceptance_rate": 51.0917
+          },
+          "hard": {
+            "completion": 2.21704,
+            "acceptance_rate": 36.53846
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "sutharsan07",
+    "display_name": "Sutharsan 07",
+    "collected_at": "2025-08-02T10:13:24.395986+00:00",
+    "data": {
+      "full_profile": {
+        "username": "sutharsan07",
+        "real_name": "sutharsan7",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/sutharsan7/avatar_1729658069.png",
+        "location": "India%0%0",
+        "company": null,
+        "school": null,
+        "star_rating": 3.0,
+        "ranking": 96347,
+        "reputation": 0,
+        "easy_solved": 365,
+        "medium_solved": 234,
+        "hard_solved": 14,
+        "total_solved": 613,
+        "easy_acceptance_rate": 74.33809,
+        "medium_acceptance_rate": 65.0,
+        "hard_acceptance_rate": 30.43478,
+        "overall_acceptance_rate": 68.33891,
+        "language_stats": {
+          "C": 5,
+          "C++": 534,
+          "Java": 40,
+          "MySQL": 14,
+          "Pandas": 20,
+          "Python": 13,
+          "Python3": 14,
+          "JavaScript": 3
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 41.19639,
+            "acceptance_rate": 74.33809
+          },
+          "medium": {
+            "completion": 12.38751,
+            "acceptance_rate": 65.0
+          },
+          "hard": {
+            "completion": 1.63361,
+            "acceptance_rate": 30.43478
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "tharunraaj7",
+    "display_name": "Tharunraaj 7",
+    "collected_at": "2025-08-02T10:13:29.25135+00:00",
+    "data": {
+      "full_profile": {
+        "username": "tharunraaj7",
+        "real_name": "tharunraaj7",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/tharunraaj7/avatar_1747895027.png",
+        "location": "%%",
+        "company": null,
+        "school": "Chennai institute of Technology",
+        "star_rating": 2.5,
+        "ranking": 173095,
+        "reputation": 2,
+        "easy_solved": 331,
+        "medium_solved": 128,
+        "hard_solved": 12,
+        "total_solved": 471,
+        "easy_acceptance_rate": 43.09896,
+        "medium_acceptance_rate": 30.69544,
+        "hard_acceptance_rate": 18.46154,
+        "overall_acceptance_rate": 37.68,
+        "language_stats": {
+          "C++": 53,
+          "Bash": 1,
+          "Java": 3,
+          "MySQL": 3,
+          "Pandas": 16,
+          "Python": 6,
+          "Python3": 406,
+          "JavaScript": 5
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 37.35892,
+            "acceptance_rate": 43.09896
+          },
+          "medium": {
+            "completion": 6.77607,
+            "acceptance_rate": 30.69544
+          },
+          "hard": {
+            "completion": 1.40023,
+            "acceptance_rate": 18.46154
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "prannav_cse19",
+    "display_name": "Prannav CSE19",
+    "collected_at": "2025-08-02T10:13:34.842888+00:00",
+    "data": {
+      "full_profile": {
+        "username": "prannav_cse19",
+        "real_name": "prannav_cse19",
+        "about_me": "Passionate Programmer | Proficient in Python & C++|Aspiring SDE | FullStack Mobile developer | Exploring AI/ML",
+        "avatar_url": "https://assets.leetcode.com/users/prannav_cse/avatar_1719563500.png",
+        "location": "India%Tamil Nadu%Chennai",
+        "company": null,
+        "school": "Chennai Institute  Of Technology",
+        "star_rating": 2.5,
+        "ranking": 163118,
+        "reputation": 0,
+        "easy_solved": 326,
+        "medium_solved": 146,
+        "hard_solved": 13,
+        "total_solved": 485,
+        "easy_acceptance_rate": 51.25786,
+        "medium_acceptance_rate": 33.87471,
+        "hard_acceptance_rate": 52.0,
+        "overall_acceptance_rate": 44.41392,
+        "language_stats": {
+          "C++": 234,
+          "Java": 6,
+          "MySQL": 1,
+          "Oracle": 1,
+          "Pandas": 1,
+          "Python": 150,
+          "Python3": 129,
+          "JavaScript": 8
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 36.79458,
+            "acceptance_rate": 51.25786
+          },
+          "medium": {
+            "completion": 7.72896,
+            "acceptance_rate": 33.87471
+          },
+          "hard": {
+            "completion": 1.51692,
+            "acceptance_rate": 52.0
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Rishi1201",
+    "display_name": "Rishi 1201",
+    "collected_at": "2025-08-02T10:13:39.337465+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Rishi1201",
+        "real_name": "Rishi1201",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/default_avatar.jpg",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 293297,
+        "reputation": 0,
+        "easy_solved": 272,
+        "medium_solved": 74,
+        "hard_solved": 5,
+        "total_solved": 351,
+        "easy_acceptance_rate": 73.51351,
+        "medium_acceptance_rate": 48.05195,
+        "hard_acceptance_rate": 33.33333,
+        "overall_acceptance_rate": 65.12059,
+        "language_stats": {
+          "C++": 96,
+          "Java": 8,
+          "MySQL": 35,
+          "Python": 2,
+          "Python3": 211
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 30.69977,
+            "acceptance_rate": 73.51351
+          },
+          "medium": {
+            "completion": 3.91742,
+            "acceptance_rate": 48.05195
+          },
+          "hard": {
+            "completion": 0.58343,
+            "acceptance_rate": 33.33333
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Vijitha_M",
+    "display_name": "Vijitha M",
+    "collected_at": "2025-08-02T10:13:45.623627+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Vijitha_M",
+        "real_name": "Vijitha M",
+        "about_me": "",
+        "avatar_url": "https://assets.leetcode.com/users/Vijitha_M/avatar_1745679381.png",
+        "location": "%%",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 174538,
+        "reputation": 0,
+        "easy_solved": 321,
+        "medium_solved": 131,
+        "hard_solved": 17,
+        "total_solved": 469,
+        "easy_acceptance_rate": 58.04702,
+        "medium_acceptance_rate": 46.78571,
+        "hard_acceptance_rate": 36.17021,
+        "overall_acceptance_rate": 53.29545,
+        "language_stats": {
+          "C++": 228,
+          "Java": 38,
+          "MySQL": 24,
+          "Pandas": 2,
+          "Python3": 291
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 36.23025,
+            "acceptance_rate": 58.04702
+          },
+          "medium": {
+            "completion": 6.93489,
+            "acceptance_rate": 46.78571
+          },
+          "hard": {
+            "completion": 1.98366,
+            "acceptance_rate": 36.17021
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "Madhesh2007",
+    "display_name": "Madhesh 2007",
+    "collected_at": "2025-08-02T10:13:49.787618+00:00",
+    "data": {
+      "full_profile": {
+        "username": "Madhesh2007",
+        "real_name": "L MADHESH CSE",
+        "about_me": "I have interested in learning Data Structures and Algorithms and also interested in developing skills in blockchain technology",
+        "avatar_url": "https://assets.leetcode.com/users/nk3VJ6zAHI/avatar_1717069125.png",
+        "location": "India%Tamil Nadu%Kānchipuram",
+        "company": null,
+        "school": null,
+        "star_rating": 2.5,
+        "ranking": 155980,
+        "reputation": 0,
+        "easy_solved": 358,
+        "medium_solved": 132,
+        "hard_solved": 7,
+        "total_solved": 497,
+        "easy_acceptance_rate": 47.16733,
+        "medium_acceptance_rate": 35.57951,
+        "hard_acceptance_rate": 14.89362,
+        "overall_acceptance_rate": 42.226,
+        "language_stats": {
+          "C": 213,
+          "C++": 299,
+          "Bash": 1,
+          "MySQL": 15,
+          "Pandas": 1,
+          "Python": 7,
+          "JavaScript": 4
+        }
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 40.40632,
+            "acceptance_rate": 47.16733
+          },
+          "medium": {
+            "completion": 6.98782,
+            "acceptance_rate": 35.57951
+          },
+          "hard": {
+            "completion": 0.8168,
+            "acceptance_rate": 14.89362
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 0,
+        "max_streak": 0,
+        "total_days_active": 0,
+        "recent_activity": {
+          "last_7_days": 0,
+          "last_30_days": 0
+        }
+      }
+    }
+  },
+  {
+    "leetcode_id": "test_user_12345",
+    "display_name": "Test User",
+    "collected_at": "2025-08-02T12:00:00+00:00",
+    "data": {
+      "full_profile": {
+        "username": "test_user_12345",
+        "real_name": null,
+        "about_me": null,
+        "avatar_url": null,
+        "location": null,
+        "company": null,
+        "school": null,
+        "star_rating": null,
+        "ranking": null,
+        "reputation": 10,
+        "easy_solved": 50,
+        "medium_solved": 30,
+        "hard_solved": 20,
+        "total_solved": 100,
+        "easy_acceptance_rate": 80.0,
+        "medium_acceptance_rate": 70.0,
+        "hard_acceptance_rate": 60.0,
+        "overall_acceptance_rate": 75.5,
+        "language_stats": {}
+      },
+      "difficulty_analysis": {
+        "skill_level": "Intermediate",
+        "difficulty_distribution": {
+          "easy": {
+            "completion": 50.0,
+            "acceptance_rate": 80.0
+          },
+          "medium": {
+            "completion": 15.0,
+            "acceptance_rate": 70.0
+          },
+          "hard": {
+            "completion": 2.5,
+            "acceptance_rate": 60.0
+          }
+        }
+      },
+      "consistency_stats": {
+        "current_streak": 5,
+        "max_streak": 15,
+        "total_days_active": 100,
+        "recent_activity": {
+          "last_7_days": 5,
+          "last_30_days": 20
+        }
+      }
+    }
+  }
+]
