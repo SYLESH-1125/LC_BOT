@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
+import Link from 'next/link'
 
 interface ProgressData {
   date: string
@@ -40,7 +41,7 @@ export default function AnalyticsPage() {
 
   useEffect(() => {
     loadAnalyticsData()
-  }, [selectedDays])
+  }, [selectedDays,])
 
   const loadAnalyticsData = async () => {
     setIsLoading(true)
@@ -141,12 +142,12 @@ export default function AnalyticsPage() {
 
         {/* Navigation */}
         <div className="text-center mb-8">
-          <a
+          <Link
             href="/"
             className="inline-flex items-center px-4 py-2 bg-gray-700 hover:bg-gray-600 text-white rounded-lg transition-colors"
           >
             ← Back to Dashboard
-          </a>
+          </Link>
         </div>
 
         {/* Time Period Selector */}
