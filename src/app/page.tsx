@@ -16,6 +16,7 @@ import {
 } from 'lucide-react'
 import { UserProfile } from '@/lib/supabase'
 import { fetchSupabaseUsers } from '@/lib/simple-supabase'
+import Image from 'next/image'
 
 interface UserData {
   leetcode_id: string
@@ -179,7 +180,7 @@ function StatsCard({ title, value, subtitle, icon: Icon, gradient }: {
   )
 }
 
-function UserCard({ user, viewMode = 'grid' }: { user: UserData; viewMode?: ViewMode }) {
+function UserCard({ user, viewMode = 'list' }: { user: UserData; viewMode?: ViewMode }) {
   const profile = user.data.full_profile
   const analysis = user.data.difficulty_analysis
   const consistency = user.data.consistency_stats
@@ -193,7 +194,7 @@ function UserCard({ user, viewMode = 'grid' }: { user: UserData; viewMode?: View
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
             {profile.avatar_url && (
-              <img
+              <Image
                 src={profile.avatar_url}
                 alt={user.display_name}
                 className="w-12 h-12 rounded-full border-2 border-white/10 object-cover"
@@ -254,17 +255,17 @@ function UserCard({ user, viewMode = 'grid' }: { user: UserData; viewMode?: View
       <div className="flex items-start justify-between mb-4">
         <div className="flex items-center space-x-3">
           {profile.avatar_url && (
-            <img
+            <Image
               src={profile.avatar_url}
               alt={user.display_name}
               className="w-12 h-12 rounded-full border-2 border-white/10 object-cover"
             />
           )}
           <div>
-            <h3 className="text-lg font-semibold text-white group-hover:text-purple-300 transition-colors">
+            <h3 className="text-md truncate max-w-[120px] font-semibold text-white group-hover:text-purple-300 transition-colors">
               {user.display_name}
             </h3>
-            <p className="text-gray-400 text-sm">@{user.leetcode_id}</p>
+            <p className="text-gray-400 text-xs max-w-4xl">@{user.leetcode_id}</p>
             {profile.ranking && (
               <p className="text-gray-500 text-xs">Rank #{profile.ranking.toLocaleString()}</p>
             )}
@@ -277,12 +278,6 @@ function UserCard({ user, viewMode = 'grid' }: { user: UserData; viewMode?: View
       </div>
 
       <div className="space-y-2 mb-4 text-sm text-gray-400">
-        {profile.school && (
-          <div className="flex items-center">
-            <GraduationCap className="h-4 w-4 mr-2" />
-            <span className="truncate">{profile.school}</span>
-          </div>
-        )}
         {profile.company && (
           <div className="flex items-center">
             <Building className="h-4 w-4 mr-2" />
@@ -651,24 +646,24 @@ export default function Dashboard() {
               <select
                 value={skillFilter}
                 onChange={(e) => setSkillFilter(e.target.value as SkillFilter)}
-                className="bg-white/5 border border-white/10 rounded-xl px-4 py-2 text-white focus:border-purple-500 focus:ring-1 focus:ring-purple-500"
+                className="bg-black/20 backdrop-blur-md text-white px-4 py-2 rounded-lg border-none focus:outline-none focus:ring-2 focus:ring-purple-500 transition duration-200"
               >
-                <option value="all">All Skills</option>
-                <option value="Beginner">Beginner</option>
-                <option value="Intermediate">Intermediate</option>
-                <option value="Advanced">Advanced</option>
-                <option value="Expert">Expert</option>
+                <option value="all" className='bg-purple-600'>All Skills</option>
+                <option value="Beginner" className='bg-purple-600'>Beginner</option>
+                <option value="Intermediate" className='bg-purple-600'>Intermediate</option>
+                <option value="Advanced" className='bg-purple-600'>Advanced</option>
+                <option value="Expert" className='bg-purple-600'>Expert</option>
               </select>
 
               <select
                 value={sortBy}
                 onChange={(e) => setSortBy(e.target.value as SortBy)}
-                className="bg-white/5 border border-white/10 rounded-xl px-4 py-2 text-white focus:border-purple-500 focus:ring-1 focus:ring-purple-500"
+                className="bg-black/20 backdrop-blur-md text-white px-4 py-2 rounded-lg border-none focus:outline-none focus:ring-2 focus:ring-purple-500 transition duration-200"
               >
-                <option value="total_solved">Problems Solved</option>
-                <option value="current_streak">Current Streak</option>
-                <option value="overall_acceptance_rate">Acceptance Rate</option>
-                <option value="display_name">Name</option>
+                <option value="total_solved" className='bg-purple-900'>Problems Solved</option>
+                <option value="current_streak" className='bg-purple-900'>Current Streak</option>
+                <option value="overall_acceptance_rate" className='bg-purple-900'>Acceptance Rate</option>
+                <option value="display_name" className='bg-purple-900'>Name</option>
               </select>
 
               <div className="flex bg-white/5 border border-white/10 rounded-xl p-1">
