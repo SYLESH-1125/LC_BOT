@@ -194,7 +194,7 @@ function UserCard({ user, viewMode = 'list' }: { user: UserData; viewMode?: View
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
             {profile.avatar_url && (
-              <Image
+              <img
                 src={profile.avatar_url}
                 alt={user.display_name}
                 className="w-12 h-12 rounded-full border-2 border-white/10 object-cover"
@@ -255,7 +255,7 @@ function UserCard({ user, viewMode = 'list' }: { user: UserData; viewMode?: View
       <div className="flex items-start justify-between mb-4">
         <div className="flex items-center space-x-3">
           {profile.avatar_url && (
-            <Image
+            <img
               src={profile.avatar_url}
               alt={user.display_name}
               className="w-12 h-12 rounded-full border-2 border-white/10 object-cover"
